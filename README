@@ -1,1 +1,1 @@
-Hello World
+Table that uses an Arduino Uno to control a 6x8 LED matrix.  The LEDs are individually addressable to enable them to make patterns on the board.
